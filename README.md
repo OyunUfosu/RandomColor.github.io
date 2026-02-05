@@ -87,3 +87,23 @@ RandomColor/
 ├── index.html
 ├── RandomColor.png      # Logo (isteğe bağlı)
 └── README.md
+---
+
+## 📄 Lisans
+
+Bu proje herhangi bir açık kaynak lisansa tabi değildir.
+Ancak isteyen herkes:
+
+* Projeyi inceleyebilir
+* İlham alabilir
+* Kendi projelerinde kullanabilir
+
+Projeden esinlenen çalışmaların **GitHub sayfamdan (@oyunufosu)** ilham aldığını belirtmesi beni mutlu eder.
+
+---
+
+## ✉️ İletişim
+
+**Geliştirici:** @oyunufosu
+Geri bildirim, öneri veya katkı için GitHub üzerinden benimle iletişime geçebilirsiniz.
+
